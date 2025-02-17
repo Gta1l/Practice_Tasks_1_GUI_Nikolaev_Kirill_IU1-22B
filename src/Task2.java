@@ -1,3 +1,5 @@
+
+
 public class Task2 {
     static public double func(double x) {
         return Math.pow(x, 3) + x + 1;
